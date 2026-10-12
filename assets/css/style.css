@@ -1,0 +1,55 @@
+
+/* 1. Pengaturan dasar halaman */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #222222;
+    line-height: 1.6;
+}
+
+/* 2. Bagian navbar */
+header {
+    background-color: #111111;
+    color: #ffffff;
+    padding: 20px 8%;
+}
+
+header h1 {
+    font-size: 24px;
+    color: #d4af37;
+}
+
+header p {
+    color: #dddddd;
+}
+
+/* 3. Bagian konten utama */
+main {
+    padding: 80px 8%;
+    min-height: 60vh;
+}
+
+main h2 {
+    font-size: 36px;
+    margin-bottom: 16px;
+    color: #111111;
+}
+
+main p {
+    font-size: 18px;
+    color: #555555;
+}
+
+/* 4. Bagian footer */
+footer {
+    background-color: #111111;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
