@@ -255,7 +255,7 @@
 
                         <div class="flex h-64 items-center justify-center overflow-hidden bg-neutral-900 p-6 sm:h-72">
                             <img
-                                src="assets/images/01-9-26062026-031206.jpg"
+                                src="assets/images/images (3).jpg"
                                 alt="Motor Honda BeAT"
                                 loading="lazy"
                                 class="h-full w-full object-contain transition duration-500 group-hover:scale-105"
@@ -263,9 +263,9 @@
                             >
 
                             <div class="hidden h-full w-full flex-col items-center justify-center text-center">
-                                <span class="text-6xl">🏍️</span>
+                                <span class="text-6xl"></span>
                                 <p class="mt-3 text-sm text-neutral-500">
-                                    Gambar Honda BeAT
+                                 
                                 </p>
                                 <p class="mt-1 text-xs text-neutral-600">
                                     Tambahkan file honda-beat.png
@@ -313,7 +313,7 @@
 
                         <div class="flex h-64 items-center justify-center overflow-hidden bg-neutral-900 p-6 sm:h-72">
                             <img
-                                src="assets/images/new-thumbnail-beat-street-1-26062026-055644.jpg"
+                                src="assets/images/images (4).jpg"
                                 alt="Motor Honda BeAT Street"
                                 loading="lazy"
                                 class="h-full w-full object-contain transition duration-500 group-hover:scale-105"
@@ -321,9 +321,9 @@
                             >
 
                             <div class="hidden h-full w-full flex-col items-center justify-center text-center">
-                                <span class="text-6xl">🏍️</span>
+                                <span class="text-6xl"></span>
                                 <p class="mt-3 text-sm text-neutral-500">
-                                    Gambar Honda BeAT Street
+                                 
                                 </p>
                                 <p class="mt-1 text-xs text-neutral-600">
                                     Tambahkan file honda-beat-street.png
